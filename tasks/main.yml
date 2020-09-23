@@ -1,2 +1,2 @@
 - name: dummy | welcome message
-  debug: msg="Welcome to dummy package"
+  debug: msg="Welcome to dummy package (NEW!!)"
