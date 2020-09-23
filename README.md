@@ -1,0 +1,2 @@
+# ansible-dummy-role
+ 
